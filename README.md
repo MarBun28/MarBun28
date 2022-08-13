@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MarBun28
-- 👀 I’m interested in being as a front end developer
+- 👀 I’m interested on being as a front end developer
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
